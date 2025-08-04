@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-    color: #e67e22;
+    color: #cd0aef;
     text-decoration: underline;
 }
 
@@ -42,5 +42,5 @@ a:hover {
 
 img {
     border-radius: 12px;
-    box-shadow: 0 2px 10px rgba(40,82,122,0.2);
+    box-shadow: 0 2px 10px rgba(16, 108, 20, 0.2);
 }
